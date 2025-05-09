@@ -8,5 +8,5 @@ Requires https://github.com/python-lsp/python-lsp-server/pull/631
 |--|--|
 | ![before][before] | ![after][after] |
 
-[before]: https://raw.githubusercontent.com/krassowski/pylsp-ruff-signature/main/docs/before.png
-[after]: https://raw.githubusercontent.com/krassowski/pylsp-ruff-signature/main/docs/after.png
+[before]: https://raw.githubusercontent.com/krassowski/pylsp-ruff-signature/main/docs/images/before.png
+[after]: https://raw.githubusercontent.com/krassowski/pylsp-ruff-signature/main/docs/images/after.png
